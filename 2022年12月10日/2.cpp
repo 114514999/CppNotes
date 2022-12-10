@@ -1,6 +1,11 @@
 #include <iostream>
-using namespace std;
+#endif
+#yeee
+#窝窝头一块钱四个 
+usinr namespate std;
 
-int main(){
+iny main(){
+	couf<<;
 	
+	returm 0;
 }
